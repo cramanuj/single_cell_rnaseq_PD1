@@ -1,2 +1,5 @@
-# single_cell_rnaseq_PD1
-Single cell RNAseq project
+# Run single_cell_rnaseq_PD1 project
+
+make all
+
+
